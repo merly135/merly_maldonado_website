@@ -1,0 +1,35 @@
+body {
+    background-color: #F5DCF9;
+    font-family: fraktur;
+}
+
+h2 {
+    color: #6F0581;
+}
+
+p {
+    color: #651573;
+}
+
+nav {
+    color: white;
+    background-color: #DB9CE6;
+    margin: 20px;
+    padding: 13px;
+    width: 435px;
+}
+
+a {
+    color: purple;
+}
+
+a.active {
+    background-color: purple;
+    color: white;
+}
+
+a:hover:not(.active) {
+    background-color: white;
+    color: purple;
+    padding: 3px;
+}

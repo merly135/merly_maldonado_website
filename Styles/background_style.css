@@ -1,0 +1,34 @@
+body {
+    background-color: #DAFBF6;
+}
+
+h3 {
+    color: #035F51;
+}
+
+p {
+    color: #31A190;
+}
+
+nav {
+    color: white;
+    background-color: #6BAFAD;
+    margin: 20px;
+    padding: 13px;
+    width: 435px;
+}
+
+a {
+    color: #1B6D6B;
+}
+
+a.active {
+    background-color: purple;
+    color: white;
+}
+
+a:hover:not(.active) {
+    background-color: white;
+    color: #1B6D6B;
+    padding: 5px;
+}

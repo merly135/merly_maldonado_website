@@ -1,0 +1,45 @@
+body {
+    background-color: #FAF8BB;
+}
+
+h1 {
+    color: #DAD30;
+}
+
+table,
+td {
+    border: 2px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #EEE703;
+    color: #FDD9D;
+}
+
+td {
+    color: #A7A204;
+}
+
+nav {
+    color: black;
+    background-color: #EEE703;
+    margin: 20px;
+    padding: 13px;
+    width: 435px;
+}
+
+a {
+    color: #5D6404;
+}
+
+a.active {
+    background-color: #5D6404;
+    color: white;
+}
+
+a:hover:not(.active) {
+    background-color: white;
+    color: #5D6404;
+    padding: 3px;
+}

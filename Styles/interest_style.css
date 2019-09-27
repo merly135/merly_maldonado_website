@@ -1,0 +1,28 @@
+body{
+  background-color: #FCD6EE;
+}
+h3{
+  color: #5A124A;
+}
+p, ul{
+  color: #D7319A;
+}
+nav {
+  color: white;
+  background-color: #F568F2;
+  margin: 20px;
+  padding: 13px;
+  width:435px;
+}
+a{
+  color: pink;
+}
+a.active{
+  background-color: #5D6404;
+  color: white;
+}
+a:hover:not(.active){
+  background-color: white;
+  color: #F568F2;
+  padding:3px;
+}
