@@ -1,5 +1,5 @@
 body{
-  background-color: #FCD6EE;
+  background-color: floralwhite;
 }
 h3{
   color: #5A124A;
@@ -8,11 +8,13 @@ p, ul{
   color: #D7319A;
 }
 nav {
-  color: white;
-  background-color: #F568F2;
-  margin: 20px;
-  padding: 13px;
-  width:435px;
+    color: white;
+    background-color: #7D1815;
+    margin: 20px;
+    padding: 13px;
+    width: 435px;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
 }
 a{
   color: pink;

@@ -1,25 +1,36 @@
 body {
-    background-color: #D6F9DE;
+    background-color: floralwhite;
 }
 
-h3 {
-    color: #044814;
+h2 {
+    color: white;
+    background-color: #7D1815;
+    width:100px;
+    text-align: center;
+    padding: 5px;
 }
 
 ol {
-    color: green;
+    color: #7D1815;
+    border: 3px solid #7D1815;
+    padding: 10px;
+    padding-left: 20px;
+    width: 50%;
+    margin-left: 5%
 }
 
 nav {
-    color: black;
-    background-color: #85F58B;
+    color: white;
+    background-color: #7D1815;
     margin: 20px;
     padding: 13px;
     width: 435px;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
 }
 
 a {
-    color: green;
+    color: white;
 }
 
 a.active {

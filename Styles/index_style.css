@@ -1,45 +1,59 @@
-body{
-  background-color: ;
-  color: ;
+body {
+    background-color: antiquewhite;
+    color: ;
 }
-h2{
-  color: #7D1815;
-  background: white;
-  width: 200px;
-  padding:6px;
-  margin-left: 20px;
-  font-family: sans-serif;
+
+h2 {
+    color: white;
+    background: #7D1815;
+    width: 200px;
+    padding: 6px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    text-align: center;
 }
-ace{
-  text-align: center;
+
+ace {
+    text-align: center;
 }
-p{
-  text-align: justify;
-  width: 500px;
-  margin-left:50px;
-  font-family: sans-serif;
+
+p,
+ul,
+ol {
+    color: #7D1815;
+    border: 3px solid #7D1815;
+    padding: 10px;
+    padding-left: 20px;
+    width: 50%;
+    margin-left: 5%;
+    background-color: whitesmoke;
 }
+
 nav {
-  color: white;
-  background-color: #7D1815;
-  margin: 20px;
-  padding: 13px;
-  width:435px;
-  border-bottom: 5px solid black;
-  border-left: 5px solid black;
+    color: white;
+    background-color: #7D1815;
+    margin: 20px;
+    padding: 13px;
+    width: 435px;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
 }
-a{
-  color: white;
+
+a {
+    color: white;
 }
-a.active{
-  background-color:purple;
-  color: white;
+
+a.active {
+    background-color: purple;
+    color: white;
 }
-a:hover:not(.active){
-  background-color: white;
-  color: #801811;
-  padding:3px;
+
+a:hover:not(.active) {
+    background-color: white;
+    color: #801811;
+    padding: 3px;
 }
-img{
-  margin-left: 100px;
+
+img {
+    margin-left: 100px;
 }
