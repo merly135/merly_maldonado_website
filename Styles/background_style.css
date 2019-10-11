@@ -6,8 +6,11 @@ h3 {
     color: #035F51;
 }
 
-p {
-    color: #31A190;
+p{
+  color: #31A190;
+  text-align: justify;
+  width: 1000px;
+  margin:20px;
 }
 
 nav {
