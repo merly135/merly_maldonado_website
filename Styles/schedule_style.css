@@ -1,5 +1,5 @@
 body {
-    background-color: floralwhite;
+    background-color: antiquewhite;
 }
 
 h1 {
@@ -8,17 +8,17 @@ h1 {
 
 table,
 td {
-    border: 2px solid #333;
+    border: 2px solid #7D1815;
 }
 
 thead,
 tfoot {
-    background-color: #EEE703;
-    color: #FDD9D;
+    background-color: #7D1815;
+    color: white;
 }
 
 td {
-    color: #A7A204;
+    color: #7D1815;
 }
 
 nav {
@@ -32,16 +32,16 @@ nav {
 }
 
 a {
-    color: #5D6404;
+    color: white;
 }
 
 a.active {
-    background-color: #5D6404;
+    background-color: #7D1815;
     color: white;
 }
 
 a:hover:not(.active) {
     background-color: white;
-    color: #5D6404;
+    color: #7D1815;
     padding: 3px;
 }
