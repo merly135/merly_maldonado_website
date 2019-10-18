@@ -16,9 +16,12 @@ ace {
     text-align: center;
 }
 
-p,
+img {
+    margin-left: 15%;
+    border: 5px solid #7D1815;
+}
+
 ol,
-ul,
 div,
 blockquote {
     color: #7D1815;
@@ -35,23 +38,24 @@ nav {
     background-color: #7D1815;
     margin: 20px;
     padding: 13px;
-    width: 435px;
+    width: 439px;
     border-bottom: 5px solid black;
     border-left: 5px solid black;
 }
 
 a {
     color: white;
+    background-color: #7D1815;
+    padding: 1px;
 }
 
 a.active {
-    background-color: purple;
+    background-color: #7D1815;
     color: white;
 }
 
 a:hover:not(.active) {
     background-color: white;
-    color: #801811;
+    color: #7D1815;
     padding: 3px;
 }
-
