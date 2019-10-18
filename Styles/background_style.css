@@ -8,9 +8,15 @@ h2 {
     width: 200;
     text-align: center;
     padding: 5px;
+    margin-left: 20px;
 }
 
-p{
+img {
+    margin-left: 15%;
+    border: 5px solid #7D1815;
+}
+
+p {
     color: #7D1815;
     border: 3px solid #7D1815;
     padding: 10px;

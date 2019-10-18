@@ -8,6 +8,7 @@ h2 {
     width: 100px;
     text-align: center;
     padding: 5px;
+    margin-left: 20px;
 }
 
 ol {
@@ -16,7 +17,7 @@ ol {
     padding: 10px;
     padding-left: 25px;
     width: 50%;
-    margin-left: 5%;
+    margin-left: 10%;
     background-color: whitesmoke;
 }
 

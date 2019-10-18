@@ -6,9 +6,21 @@ h1 {
     color: #DAD30;
 }
 
-table,
+div {
+    padding-left: 10%;
+    padding-top: 20px;
+}
+
+table {
+    border: 10px solid #7D1815;
+    height: 40%;
+    width: 50%;
+}
+
 td {
-    border: 2px solid #7D1815;
+    border: 3px solid #7D1815;
+    position: relative;
+    padding-left: 3%;
 }
 
 thead,

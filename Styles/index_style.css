@@ -17,14 +17,16 @@ ace {
 }
 
 p,
+ol,
 ul,
-ol {
+div,
+blockquote {
     color: #7D1815;
     border: 3px solid #7D1815;
     padding: 10px;
-    padding-left: 20px;
+    padding-left: 25px;
     width: 50%;
-    margin-left: 5%;
+    margin-left: 10%;
     background-color: whitesmoke;
 }
 
@@ -53,6 +55,3 @@ a:hover:not(.active) {
     padding: 3px;
 }
 
-img {
-    margin-left: 100px;
-}
